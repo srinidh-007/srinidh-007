@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srinidh-007
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning AI,ML and Web Development
-- 💞️ I’m looking to collaborate on Web Development, Basic ML Models
+- 🌱 I’m currently learning Computer Vision and Data Science
+- 💞️ I’m looking to collaborate on Web Development, Data Analytics Problems
 - 📫 How to reach me ...
 
 
