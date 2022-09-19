@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   
 - 👋 Hi, I’m @srinidh-007
 - 👀 I’m interested in Technology and Solving Problems 
-- 🌱 I’m currently learning Computer Vision and 
+- 🌱 I’m currently learning Computer Vision and Virtual Reality
 - 💞️ I’m looking to collaborate on Software Development, Data Analytics Problems
 - 😄 Pronouns: He / Him
 
