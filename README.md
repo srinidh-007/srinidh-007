@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
   
   #### 📫 How to reach me:
     
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
-  <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
+  <a href="mailto:rsrigithub@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
   
@@ -50,15 +50,7 @@ You can click the Preview link to take a look at your changes.
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
 
   
