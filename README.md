@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   
   #### 📫 How to reach me:
     
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/5Z9DPNG5)  &nbsp; 
   <a href="mailto:rsrigithub@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
