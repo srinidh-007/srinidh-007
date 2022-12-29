@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
   
-- 👋 Hi, I’m @srinidh-007
+- 👋 Hi, I’m Srinidh
 - 👀 I’m interested in Technology and Solving Problems 
 - 🌱 I’m currently learning Cryptography and Virtual Reality
 - 💞️ I’m looking to collaborate on Software Development, Data Analytics Problems
