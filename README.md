@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
   
   
 - 👋 Hi, I’m Srinidh
-- 👀 I’m interested in Technology and Solving Problems 
-- 🌱 I’m currently learning Cryptography and Virtual Reality
-- 💞️ I’m looking to collaborate on Software Development, Data Analytics Problems
+- 👀 I’m interested in Technology and Solving Real World Problems 
+- 🌱 I’m currently learning LLM's and Entrepreneurship.
+- 💞️ I’m looking to collaborate on Business, Management, Software Development Problems.
 - 😄 Pronouns: He / Him
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
